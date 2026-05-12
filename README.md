@@ -2,7 +2,7 @@
 
 Это стартовый набор материалов для участников gконф: как не потеряться в AI-инструментах, безопасно работать с агентами, проходить практические задания и собирать свой рабочий контекст.
 
-Репозиторий можно скачать, открыть в Codex, Claude Code, Cursor или другом кодинг-агенте и использовать как рабочую папку. Внутри лежат гайды, микроквесты, готовые команды для агента и шаблоны файлов.
+Репозиторий можно скачать, открыть в Codex, Claude Code, Cursor или другом кодинг-агенте и использовать как рабочую папку. Внутри лежат гайды, готовые команды для агента, Q&A и шаблоны файлов.
 
 ## Быстрый старт
 
@@ -25,16 +25,15 @@
 - `docs/ai-tools-map.md`
 - `docs/faq.md`
 - `docs/when-stuck.md`
-- `microquests/02-html-game.md`
+- `guides/first-local-project.md`
 
 Цель: понять карту инструментов, попробовать маленькое задание и не пытаться сразу собрать большую систему.
 
 ### Я хочу билдить приложения
 
 - `guides/github-basics.md`
-- `microquests/07-github.md`
-- `microquests/08-railway.md`
-- `microquests/10-telegram-bot.md`
+- `guides/railway-deploy.md`
+- `guides/telegram-bot.md`
 - `docs/safety-and-secrets.md`
 
 Цель: пройти полный цикл "создал - сохранил в GitHub - задеплоил - проверил - откатился если сломалось".
@@ -43,6 +42,7 @@
 
 - `guides/claude-code-personal-os.md`
 - `guides/second-brain.md`
+- `guides/skills.md`
 - `templates/claude-md-starter.md`
 - `skills/daily.md`
 - `skills/meeting.md`
@@ -51,8 +51,8 @@
 
 ### Я хочу автоматизации и интеграции
 
-- `microquests/01-telegram-mcp.md`
-- `microquests/03-custom-mcp.md`
+- `guides/telegram-mcp.md`
+- `guides/custom-mcp.md`
 - `guides/openclaw.md`
 - `docs/safety-and-secrets.md`
 
@@ -74,22 +74,18 @@
 Большие инструкции:
 
 - Claude Code как персональная рабочая среда;
+- первый локальный проект;
+- дизайн по референсу;
+- skills и команды;
+- Telegram MCP;
+- свой MCP;
+- Railway;
+- Telegram-бот;
+- swarm agents;
 - OpenClaw;
 - GitHub;
 - Cursor;
 - Second Brain.
-
-### `microquests/`
-
-Практические задания. Они короткие, прикладные и проверяемые:
-
-- подключить Telegram MCP;
-- сделать простую HTML-игру;
-- собрать свой MCP;
-- выложить проект на GitHub;
-- задеплоить на Railway;
-- собрать Telegram-бота;
-- попробовать несколько агентов на одну задачу.
 
 ### `skills/`
 

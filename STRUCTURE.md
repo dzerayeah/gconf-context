@@ -17,24 +17,19 @@ docs/
 guides/
   README.md
   claude-code-personal-os.md
-  openclaw.md
-  github-basics.md
+  first-local-project.md
+  design-from-reference.md
+  agent-style-and-reflection.md
+  skills.md
   cursor-basics.md
+  github-basics.md
+  railway-deploy.md
+  telegram-bot.md
+  telegram-mcp.md
+  custom-mcp.md
+  openclaw.md
   second-brain.md
-
-microquests/
-  README.md
-  01-telegram-mcp.md
-  02-html-game.md
-  03-custom-mcp.md
-  04-design-from-reference.md
-  05-tov-reflection.md
-  06-skills.md
-  07-github.md
-  08-railway.md
-  09-second-brain.md
-  10-telegram-bot.md
-  12-swarm-agents.md
+  swarm-agents.md
 
 skills/
   README.md
