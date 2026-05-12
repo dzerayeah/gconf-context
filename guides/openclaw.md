@@ -17,15 +17,26 @@ OpenClaw - это способ собрать личного ассистент�
 
 ## `.env`
 
-Скопируйте `templates/openclaw.env.example` в локальный файл:
+Создайте локальный файл:
 
 ```bash
 mkdir -p ~/.openclaw
-cp templates/openclaw.env.example ~/.openclaw/.env
+nano ~/.openclaw/.env
 chmod 600 ~/.openclaw/.env
 ```
 
-Заполните значения вручную.
+Заполните значения вручную:
+
+```env
+SERVER_IP=your_server_ip
+SSH_USER=root
+SSH_KEY_NAME=openclaw_infra
+TELEGRAM_USER_ID=your_telegram_user_id
+TELEGRAM_BOT_TOKEN=your_telegram_bot_token
+ANTHROPIC_API_KEY=your_anthropic_api_key
+GEMINI_API_KEY=
+MEMORY_REPO_SSH=git@github.com:your_username/your_memory_repo.git
+```
 
 ## Что можно поручить агенту
 

@@ -54,7 +54,6 @@
 - `microquests/01-telegram-mcp.md`
 - `microquests/03-custom-mcp.md`
 - `guides/openclaw.md`
-- `templates/openclaw.env.example`
 - `docs/safety-and-secrets.md`
 
 Цель: подключать внешние сервисы осознанно, с отдельными токенами, allow-list и ручной проверкой действий.
@@ -109,12 +108,8 @@
 
 Заготовки файлов:
 
-- `openclaw.env.example`;
 - starter для `CLAUDE.md`;
 - starter для `AGENTS.md`;
-- шаблон напоминаний;
-- шаблон описания видео;
-- шаблон Q&A summary.
 
 ### `events/`
 

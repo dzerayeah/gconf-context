@@ -49,12 +49,8 @@ skills/
 
 templates/
   README.md
-  openclaw.env.example
   claude-md-starter.md
   agents-md-starter.md
-  reminder-template.md
-  event-description-template.md
-  qa-summary-template.md
 
 events/
   README.md

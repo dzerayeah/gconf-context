@@ -11,9 +11,5 @@
 
 Что есть:
 
-- `openclaw.env.example` - пример `.env` для OpenClaw;
 - `claude-md-starter.md` - стартовый `CLAUDE.md`;
 - `agents-md-starter.md` - стартовый `AGENTS.md`;
-- `reminder-template.md` - 4 напоминания о событии;
-- `event-description-template.md` - описание видео/созвона;
-- `qa-summary-template.md` - summary Q&A.
