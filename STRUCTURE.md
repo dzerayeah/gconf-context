@@ -52,7 +52,7 @@ templates/
   claude-md-starter.md
   agents-md-starter.md
 
-events/
+qa/
   README.md
   qa.md
 ```
