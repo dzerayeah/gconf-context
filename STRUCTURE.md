@@ -1,9 +1,11 @@
-# Structure v0
+# Карта репозитория
+
+Эта карта нужна, чтобы быстро понять, где что лежит.
 
 ```text
 README.md
 STRUCTURE.md
-DO_NOT_INCLUDE.md
+SECURITY.md
 
 docs/
   README.md
@@ -60,4 +62,3 @@ events/
   qa-2026-04-03-claude-memory-skills.md
   qa-2026-04-10-mcp-testing-obsidian.md
 ```
-
