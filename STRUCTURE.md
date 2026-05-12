@@ -54,7 +54,5 @@ templates/
 
 events/
   README.md
-  qa-2026-03-25-tools-models-safety.md
-  qa-2026-04-03-claude-memory-skills.md
-  qa-2026-04-10-mcp-testing-obsidian.md
+  qa.md
 ```
