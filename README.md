@@ -42,7 +42,7 @@
 - `guides/second-brain.md`
 - `guides/tone-of-voice-and-coach-prompt.md`
 - `guides/skills.md`
-- `templates/claude-md-starter.md`
+- `templates/agent-context-starter.md`
 - `skills/daily.md`
 - `skills/meeting.md`
 
@@ -88,8 +88,7 @@
 
 Заготовки файлов:
 
-- starter для `CLAUDE.md`;
-- starter для `AGENTS.md`;
+- общий starter для файла правил агента.
 
 ### `qa/`
 

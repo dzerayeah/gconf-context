@@ -17,7 +17,7 @@ Second Brain - это не обязательно сложная база зна
 ```text
 second-brain/
   README.md
-  AGENTS.md
+  agent-rules.md
   inbox/
   notes/
   people/
@@ -30,7 +30,7 @@ second-brain/
 Что куда:
 
 - `README.md` - карта папки;
-- `AGENTS.md` - правила для агента;
+- файл правил агента - название зависит от инструмента;
 - `inbox/` - сырые заметки, которые надо разобрать;
 - `notes/` - постоянные заметки;
 - `people/` - контекст по людям;

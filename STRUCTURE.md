@@ -37,8 +37,7 @@ skills/
 
 templates/
   README.md
-  claude-md-starter.md
-  agents-md-starter.md
+  agent-context-starter.md
 
 qa/
   README.md
