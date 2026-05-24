@@ -40,6 +40,7 @@
 ### Я хочу собрать личный AI workspace
 
 - `guides/second-brain.md`
+- `guides/tone-of-voice-and-coach-prompt.md`
 - `guides/skills.md`
 - `templates/claude-md-starter.md`
 - `skills/daily.md`
@@ -63,6 +64,7 @@
 Большие инструкции:
 
 - стиль общения агента;
+- tone of voice и коуч-промпт;
 - skills и команды;
 - Railway;
 - GitHub;

@@ -17,6 +17,7 @@ docs/
 guides/
   README.md
   agent-style-and-reflection.md
+  tone-of-voice-and-coach-prompt.md
   skills.md
   cursor-basics.md
   github-basics.md
