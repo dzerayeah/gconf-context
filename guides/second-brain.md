@@ -81,7 +81,7 @@ second-brain/
 После созвона:
 
 ```text
-используй skills/meeting.md. сохрани summary в meetings/ и добавь задачи в нужные project-файлы.
+сделай summary созвона, сохрани его в meetings/ и добавь задачи в нужные project-файлы.
 ```
 
 Раз в неделю:
