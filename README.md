@@ -25,7 +25,7 @@
 - `docs/ai-tools-map.md`
 - `docs/faq.md`
 - `docs/when-stuck.md`
-- `guides/first-local-project.md`
+- `docs/safety-and-secrets.md`
 
 Цель: понять карту инструментов, попробовать маленькое задание и не пытаться сразу собрать большую систему.
 
@@ -33,14 +33,12 @@
 
 - `guides/github-basics.md`
 - `guides/railway-deploy.md`
-- `guides/telegram-bot.md`
 - `docs/safety-and-secrets.md`
 
 Цель: пройти полный цикл "создал - сохранил в GitHub - задеплоил - проверил - откатился если сломалось".
 
 ### Я хочу собрать личный AI workspace
 
-- `guides/claude-code-personal-os.md`
 - `guides/second-brain.md`
 - `guides/skills.md`
 - `templates/claude-md-starter.md`
@@ -48,15 +46,6 @@
 - `skills/meeting.md`
 
 Цель: сделать папку, где агент понимает ваш контекст, умеет вести задачи, созвоны, заметки и повторяемые процессы.
-
-### Я хочу автоматизации и интеграции
-
-- `guides/telegram-mcp.md`
-- `guides/custom-mcp.md`
-- `guides/openclaw.md`
-- `docs/safety-and-secrets.md`
-
-Цель: подключать внешние сервисы осознанно, с отдельными токенами, allow-list и ручной проверкой действий.
 
 ## Что внутри
 
@@ -73,16 +62,9 @@
 
 Большие инструкции:
 
-- Claude Code как персональная рабочая среда;
-- первый локальный проект;
-- дизайн по референсу;
+- стиль общения агента;
 - skills и команды;
-- Telegram MCP;
-- свой MCP;
 - Railway;
-- Telegram-бот;
-- swarm agents;
-- OpenClaw;
 - GitHub;
 - Cursor;
 - Second Brain.

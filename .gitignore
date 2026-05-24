@@ -1,2 +1,9 @@
 .DS_Store
-
+guides/claude-code-personal-os.md
+guides/custom-mcp.md
+guides/design-from-reference.md
+guides/first-local-project.md
+guides/openclaw.md
+guides/swarm-agents.md
+guides/telegram-bot.md
+guides/telegram-mcp.md

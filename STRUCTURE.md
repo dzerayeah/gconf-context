@@ -16,20 +16,12 @@ docs/
 
 guides/
   README.md
-  claude-code-personal-os.md
-  first-local-project.md
-  design-from-reference.md
   agent-style-and-reflection.md
   skills.md
   cursor-basics.md
   github-basics.md
   railway-deploy.md
-  telegram-bot.md
-  telegram-mcp.md
-  custom-mcp.md
-  openclaw.md
   second-brain.md
-  swarm-agents.md
 
 skills/
   README.md
